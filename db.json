@@ -1,0 +1,86 @@
+{
+  "students": [
+    {
+      "id": 0,
+      "name": "Hakims",
+      "nim": "123456789",
+      "active": true,
+      "email": "user@gmail.com",
+      "address": "indonesia",
+      "gender": "male"
+    },
+    {
+      "id": 1,
+      "name": "Hakimss",
+      "nim": "123456789",
+      "active": true,
+      "email": "user@gmail.com",
+      "address": "indonesia",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Hakim",
+      "nim": "123456789",
+      "active": true,
+      "email": "user@gmail.com",
+      "address": "indonesia",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "name": "Hakim",
+      "nim": "123456789",
+      "active": true,
+      "email": "user@gmail.com",
+      "address": "indonesia",
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "name": "Hakim",
+      "nim": "123456789",
+      "active": true,
+      "email": "user@gmail.com",
+      "address": "indonesia",
+      "gender": "male"
+    },
+    {
+      "id": 5,
+      "name": "Hakim",
+      "nim": "123456789",
+      "active": true,
+      "email": "user@gmail.com",
+      "address": "indonesia",
+      "gender": "male"
+    },
+    {
+      "id": 6,
+      "name": "asd",
+      "email": "asd",
+      "gender": "asd",
+      "address": "asd"
+    },
+    {
+      "id": 8,
+      "name": "asd123",
+      "email": "asd",
+      "gender": "asd",
+      "address": "asd"
+    },
+    {
+      "id": 9,
+      "name": "asd",
+      "email": "asd",
+      "gender": "asd",
+      "address": "asd"
+    },
+    {
+      "id": 10,
+      "name": "111",
+      "email": "111",
+      "gender": "111",
+      "address": "111"
+    }
+  ]
+}
